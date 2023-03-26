@@ -1,0 +1,134 @@
+<html>
+<head>
+  <html lang="en">
+<meta charset="UTF-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Final Products page</title>
+<link rel="stylesheet" type="text/css" href="Productstyle.css" />
+  
+</head>
+<div class="bg-div">
+  <img class="logo-img" src="https://github.com/jebickel5/homework.html/blob/master/logo.png?raw=true" width="130" height="130" ALT="align box" ALIGN=CENTER>
+</html>
+
+
+<div class="topnav">
+<a class="active" href="#home">Home</a>
+<a href="#Our products">Our Products</a>
+<a href="#Blog">Blog</a>
+<a href="#Contact us">Contact us</a>
+<input type="text" placeholder="Search..">
+</div>
+
+
+<body>
+
+
+	<h1>Handmade Products</h1>
+  
+	<div id="wrap">
+	<div id="columns" class="columns_3">
+  <figure>
+    	<img src="https://i.pinimg.com/564x/af/68/82/af68821988f6d69da294484bd9dec8b3.jpg">
+	<figcaption>Handmade earrings</figcaption>
+    <span class="price">£15</span>
+    <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+	
+	<figure>
+	<img src="https://cdn.shopify.com/s/files/1/0523/1407/9383/products/image_8cbdeace-338d-4828-8494-c32392b86e51_800x.jpg?v=1628519305">
+	<figcaption>Jewellery dish</figcaption>
+    <span class="price">£18</span>
+    <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+	
+  <figure>
+	<img src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61PuUePPAgL._AC_SL1001_.jpg">
+	<figcaption>Macrame Owl set</figcaption>
+    <span class="price">£25</span>
+    <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+  
+	<figure>
+	<img src="https://github.com/jebickel5/homework.html/blob/master/keychain.png?raw=true">
+	<figcaption>keychain</figcaption>
+    <span class="price">£8</span>
+    <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+	
+   <figure>
+	 <img src="https://i.pinimg.com/736x/6c/3d/b7/6c3db7ca2411bbe0a7cbc027b34564cb.jpg">
+	<figcaption>Handmade Crochet Toy</figcaption>
+    <span class="price">£20</span>
+    <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+	
+   <figure>
+	 <img src="https://i.pinimg.com/564x/1d/83/14/1d83146980020299df5e41a7a8bf8267.jpg">
+	<figcaption>Handpainted bookmark</figcaption>
+     <span class="price">£8</span>
+     <a class="button" href="#">ADD TO BAG</a>
+	</figure>
+  
+</div>
+
+</body>
+
+<footer>
+	<table style="width:100%">
+	  <tr>
+		<th scope="col">Shop</th>
+		<th scope="col">Sell</th>
+		<th scope="col">About</th>
+		<th scope="col" colspan="4">Contact us</th>
+	  </tr>
+	  <tr>
+		<td>Gift cards</td>
+		<td>Sell on our website</td>
+		<td>Our story</td>
+		<td>
+		  <button class="my-button-footer">Download our app!</button>
+		</td>
+	  </tr>
+	  <tr>
+		<td>Site map</td>
+		<td>Processing returns</td>
+		<td>FAQ</td>
+		<td>
+		  <a href="https://www.facebook.com/"><img src="facebook.png" class="icon"> </a>
+		</td>
+		<td>
+		  <a href="https://www.instagram.com/"><img src="instagram.png" class="icon"></a>
+		</td>
+		<td>
+		  <a href="https://www.pinterest.co.uk/"><img src="pinterest.png" class="icon"></a>
+		</td>
+		<td>
+		  <a href="https://twitter.com/home"><img src="twitter.png" class="icon"></a>
+		</td>
+	  </tr>
+	  <tr>
+		<td></td>
+		<td>Withdraw funds</td>
+		<td>Policies</td>
+	  </tr>
+	  <tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	  </tr>
+	  <tr>
+		<td></td>
+		<td></td>
+		<td>Careers</td>
+	  </tr>
+	</table>
+	</footer>
+</html>
+    
+
+
+
+
+
+
